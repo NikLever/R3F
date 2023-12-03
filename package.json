@@ -1,7 +1,14 @@
 {
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
   "dependencies": {
     "@react-three/fiber": "^8.15.11",
     "@types/three": "^0.159.0",
     "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.4"
   }
 }
